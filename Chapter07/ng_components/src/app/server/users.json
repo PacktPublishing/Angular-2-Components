@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Jhon Darn",
+    "email": "jhon@email.com",
+    "birthday": "5/6/1979",
+    "gender": "male",
+    "status": "active",
+    "role": "employee",
+    "phoneNumbers": [
+      "+972-123-9873",
+      "+972-352-8922",
+      "+972-667-2973"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Nir Kaufman",
+    "email": "nir@email.com",
+    "birthday": "11/2/1981",
+    "gender": "male",
+    "status": "active",
+    "role": "manager",
+    "phoneNumbers": [
+      "+972-334-3784",
+      "+972-352-8922",
+      "+972-667-2973"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Jessica Wendberd",
+    "email": "jess@email.com",
+    "birthday": "10/4/1983",
+    "gender": "female",
+    "status": "active",
+    "role": "manager",
+    "phoneNumbers": [
+      "+972-251-7654"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Bruce Dangen",
+    "email": "bruce@email.com",
+    "birthday": "6/1/1989",
+    "gender": "male",
+    "status": "active",
+    "role": "employee",
+    "phoneNumbers": [
+      "+972-378-2235",
+      "+972-548-1147"
+    ]
+  }
+]

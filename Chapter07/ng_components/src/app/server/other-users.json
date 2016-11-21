@@ -1,0 +1,43 @@
+[
+  {
+    "id": 5,
+    "name": "Michael jackson",
+    "email": "jackson@email.com",
+    "birthday": "22/3/1974",
+    "gender": "male",
+    "status": "onhold",
+    "role": "manager",
+    "phoneNumbers": [
+      "+972-123-9873"
+    ]
+  },
+
+  {
+    "id":6,
+    "name": "George kartman",
+    "email": "George@email.com",
+    "birthday": "11/5/1989",
+    "gender": "female",
+    "status": "active",
+    "role": "manager",
+    "phoneNumbers": [
+      "+972-334-3784",
+      "+972-352-8922"
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Mike brant",
+    "email": "mike@email.com",
+    "birthday": "10/8/1989",
+    "gender": "emale",
+    "status": "active",
+    "role": "manager",
+    "phoneNumbers": [
+      "+972-987-2376",
+      "+972-276-2346",
+      "+972-251-7654"
+    ]
+  }
+]

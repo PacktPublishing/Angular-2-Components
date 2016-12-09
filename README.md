@@ -23,10 +23,10 @@ class Product {
 You need to know how to read and write JavaScript. Other technologies, such as C# or Java, may help you understand the syntax, but are not mandatory. Some experience with web development and related technologies such as HTML and CSS is required, so make sure you are familiar with that.
 
 ##Related Products
-* [AngularJS Web Application Development Cookbook](https://www.packtpub.com/web-development/angular-2-components?utm_source=github&utm_medium=repository&utm_campaign=9781785882340)
+* [AngularJS Web Application Development Cookbook](https://www.packtpub.com/web-development/angularjs-web-application-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783283354)
 
-* [Mastering Angular 2 Components](https://www.packtpub.com/web-development/angular-2-components?utm_source=github&utm_medium=repository&utm_campaign=9781785882340)
+* [Mastering Angular 2 Components](https://www.packtpub.com/web-development/mastering-angular-2-components?utm_source=github&utm_medium=repository&utm_campaign=9781785884641)
 
-* [Mastering Angular 2](https://www.packtpub.com/web-development/angular-2-components?utm_source=github&utm_medium=repository&utm_campaign=9781785882340)
+* [Mastering Angular 2](https://www.packtpub.com/web-development/mastering-angular-2?utm_source=github&utm_medium=repository&utm_campaign=9781785880230)
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
